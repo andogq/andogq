@@ -120,6 +120,9 @@
                 {{/each}}
             </div>
             <p class="description">{{this.description}}</p>
+            {{#if this.uses_custom_image}}
+            <img src="{{this.image_url}}" />
+            {{/if}}
             <div class="links">
                 <a href="{{this.github_url}}"><p>Source</p></a>
                 {{#if this.homepage}}<a href="{{this.homepage}}"><p>Visit</p></a>{{/if}}
