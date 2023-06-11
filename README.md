@@ -1,5 +1,3 @@
-# Hi, I'm Tom!
-
 I'm currently studying a Bachelor of Engineering (Computer and Network)/Bachelor of
 Computer Science at RMIT, and am working as a Technology Associate at Commonwealth
 Bank.
