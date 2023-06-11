@@ -1,6 +1,5 @@
 I'm currently studying a Bachelor of Engineering (Computer and Network)/Bachelor of
-Computer Science at RMIT, and am working as a Technology Associate at Commonwealth
-Bank.
+Computer Science at RMIT, and am working as a Software Developer at ClearXP.
 
 I really enjoy working with Rust and Svelte when I can get away with it, although I
 will be happy enough in JavaScript land (TypeScript, JavaScript, NodeJS, and
